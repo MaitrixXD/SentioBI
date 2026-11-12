@@ -1,0 +1,14 @@
+review_id,review_text,true_sentiment,true_intent
+EVAL-01,"The noise-cancelling headphones are sensational! Battery lasted through my entire flight.",positive,Praise & Appreciation
+EVAL-02,"Your software update completely crashed our servers and support won't reply.",negative,Complaint
+EVAL-03,"The software works as advertised. Nothing spectacular, just does the daily job.",neutral,General Inquiry
+EVAL-04,"Absolute scam! You charged my card three times for one order. Refund my money immediately!",negative,Refund Request
+EVAL-05,"I love the new layout, but can you please add dark mode and keyboard shortcuts?",positive,Feature Suggestion
+EVAL-06,"Package arrived 4 days late, the cardboard box was torn, and the mug was in pieces.",negative,Complaint
+EVAL-07,"Customer service agent Sarah was incredibly patient and solved my issue in 5 minutes. Outstanding!",positive,Praise & Appreciation
+EVAL-08,"The item arrived on Tuesday as scheduled by standard mail.",neutral,General Inquiry
+EVAL-09,"The interface is quite sluggish on mobile devices and takes forever to load.",negative,Complaint
+EVAL-10,"Thank you for fixing the login issue so quickly! Much appreciated.",positive,Praise & Appreciation
+EVAL-11,"Is there any student discount available for annual enterprise subscriptions?",neutral,General Inquiry
+EVAL-12,"Oh wonderful, another software update that moved all the buttons I use every day.",negative,Complaint
+
